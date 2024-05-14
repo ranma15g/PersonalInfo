@@ -12,9 +12,9 @@ public class Program
     Console.WriteLine("Name : Robert Hall");
     // Unit Test #4 Birthdate
     Console.WriteLine("Birthdate : 2/27/1949");
-    // Unit Test #3 Work Phone Number
+    // Unit Test #4 Work Phone Number
     Console.WriteLine("Phone : work 000-444-0101");
-    // Unit Test #3 Cell Phone Number
+    // Unit Test #4 Cell Phone Number
     Console.WriteLine("Phone : cell 000-444-0189");
   }
 }
