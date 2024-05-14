@@ -8,13 +8,13 @@ public class Program
 {
   public static void Main(string[] args)
   {
-    // Unit Test #1 Name
-    Console.WriteLine("Name : Lucinda Potter");
-    // Unit Test #1 Birthdate
-    Console.WriteLine("Birthdate : 6/24/1992");
-    // Unit Test #1 Work Phone Number
-    Console.WriteLine("Phone : work 000-000-0101");
-    // Unit Test #1 Cell Phone Number
-    Console.WriteLine("Phone : cell 000-000-0189");
+    // Unit Test #2 Name
+    Console.WriteLine("Name : John Smith");
+    // Unit Test #2 Birthdate
+    Console.WriteLine("Birthdate : 8/15/978");
+    // Unit Test #2 Work Phone Number
+    Console.WriteLine("Phone : work 000-111-0101");
+    // Unit Test #2 Cell Phone Number
+    Console.WriteLine("Phone : cell 000-111-0189");
   }
 }
